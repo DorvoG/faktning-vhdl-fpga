@@ -1,0 +1,84 @@
+ble_pack RHIT_ibuf_RNIDVJQ_LC_2_6_0 { RHIT_ibuf_RNIDVJQ }
+clb_pack LT_2_6 { RHIT_ibuf_RNIDVJQ_LC_2_6_0 }
+set_location LT_2_6 2 6
+ble_pack RESET_ibuf_RNI8T16_LC_2_8_6 { RESET_ibuf_RNI8T16 }
+clb_pack LT_2_8 { RESET_ibuf_RNI8T16_LC_2_8_6 }
+set_location LT_2_8 2 8
+ble_pack state_0_LC_4_5_0 { state_0_THRU_LUT4_0, state[0] }
+clb_pack LT_4_5 { state_0_LC_4_5_0 }
+set_location LT_4_5 4 5
+ble_pack state_fast_RNIBO5N1_7_LC_4_6_0 { state_fast_RNIBO5N1[7] }
+ble_pack counter_RNI7VHH2_3_LC_4_6_1 { counter_RNI7VHH2[3] }
+ble_pack counter_2_LC_4_6_2 { counter_RNO[2], counter[2] }
+ble_pack counter_3_LC_4_6_3 { counter_RNO[3], counter[3] }
+ble_pack counter_7_LC_4_6_4 { counter_RNO[7], counter[7] }
+ble_pack counter_RNIRAS9_0_LC_4_6_5 { counter_RNIRAS9[0] }
+ble_pack counter_1_LC_4_6_6 { counter_RNO[1], counter[1] }
+ble_pack state_fast_RNIVPHS_7_LC_4_6_7 { state_fast_RNIVPHS[7] }
+clb_pack LT_4_6 { state_fast_RNIBO5N1_7_LC_4_6_0, counter_RNI7VHH2_3_LC_4_6_1, counter_2_LC_4_6_2, counter_3_LC_4_6_3, counter_7_LC_4_6_4, counter_RNIRAS9_0_LC_4_6_5, counter_1_LC_4_6_6, state_fast_RNIVPHS_7_LC_4_6_7 }
+set_location LT_4_6 4 6
+ble_pack counter_cry_c_0_LC_4_7_0 { counter_cry_c[0] }
+ble_pack counter_cry_0_THRU_LUT4_0_LC_4_7_1 { counter_cry_0_THRU_LUT4_0, counter_cry_c[1] }
+ble_pack counter_RNO_0_2_LC_4_7_2 { counter_RNO_0[2], counter_cry_c[2] }
+ble_pack counter_RNO_0_3_LC_4_7_3 { counter_RNO_0[3], counter_cry_c[3] }
+ble_pack counter_cry_3_THRU_LUT4_0_LC_4_7_4 { counter_cry_3_THRU_LUT4_0, counter_cry_c[4] }
+ble_pack counter_cry_4_THRU_LUT4_0_LC_4_7_5 { counter_cry_4_THRU_LUT4_0, counter_cry_c[5] }
+ble_pack counter_RNO_0_6_LC_4_7_6 { counter_RNO_0[6], counter_cry_c[6] }
+ble_pack counter_RNO_0_7_LC_4_7_7 { counter_RNO_0[7] }
+clb_pack LT_4_7 { counter_cry_c_0_LC_4_7_0, counter_cry_0_THRU_LUT4_0_LC_4_7_1, counter_RNO_0_2_LC_4_7_2, counter_RNO_0_3_LC_4_7_3, counter_cry_3_THRU_LUT4_0_LC_4_7_4, counter_cry_4_THRU_LUT4_0_LC_4_7_5, counter_RNO_0_6_LC_4_7_6, counter_RNO_0_7_LC_4_7_7 }
+set_location LT_4_7 4 7
+ble_pack CONSTANT_ONE_LUT4_LC_4_8_0 { CONSTANT_ONE_LUT4 }
+clb_pack LT_4_8 { CONSTANT_ONE_LUT4_LC_4_8_0 }
+set_location LT_4_8 4 8
+ble_pack state_RNO_0_4_LC_5_5_2 { state_RNO_0[4] }
+ble_pack state_4_LC_5_5_3 { state_RNO[4], state[4] }
+ble_pack state_RNO_0_0_LC_5_5_4 { state_RNO_0[0] }
+ble_pack state_5_LC_5_5_5 { state_RNO[5], state[5] }
+ble_pack state_RNIR3P71_5_LC_5_5_6 { state_RNIR3P71[5] }
+ble_pack state_fast_RNIS9LJ4_7_LC_5_5_7 { state_fast_RNIS9LJ4[7] }
+clb_pack LT_5_5 { state_RNO_0_4_LC_5_5_2, state_4_LC_5_5_3, state_RNO_0_0_LC_5_5_4, state_5_LC_5_5_5, state_RNIR3P71_5_LC_5_5_6, state_fast_RNIS9LJ4_7_LC_5_5_7 }
+set_location LT_5_5 5 5
+ble_pack counter_RNIMB6D_7_LC_5_6_0 { counter_RNIMB6D[7] }
+ble_pack counter_RNIS6CQ_0_LC_5_6_1 { counter_RNIS6CQ[0] }
+ble_pack state_RNO_0_LC_5_6_2 { state_RNO[0] }
+ble_pack counter_4_LC_5_6_4 { counter_RNO[4], counter[4] }
+ble_pack counter_5_LC_5_6_5 { counter_RNO[5], counter[5] }
+ble_pack counter_0_LC_5_6_6 { counter_RNO[0], counter[0] }
+ble_pack counter_6_LC_5_6_7 { counter_RNO[6], counter[6] }
+clb_pack LT_5_6 { counter_RNIMB6D_7_LC_5_6_0, counter_RNIS6CQ_0_LC_5_6_1, state_RNO_0_LC_5_6_2, counter_4_LC_5_6_4, counter_5_LC_5_6_5, counter_0_LC_5_6_6, counter_6_LC_5_6_7 }
+set_location LT_5_6 5 6
+ble_pack counter_RNI6R5D_0_LC_5_7_1 { counter_RNI6R5D[0] }
+ble_pack TIMER_RUNNINGZ0_LC_5_7_5 { TIMER_RUNNING_RNO, TIMER_RUNNING }
+clb_pack LT_5_7 { counter_RNI6R5D_0_LC_5_7_1, TIMER_RUNNINGZ0_LC_5_7_5 }
+set_location LT_5_7 5 7
+ble_pack GWIN_RNO_0_LC_6_5_0 { GWIN_RNO_0 }
+ble_pack GWINZ0_LC_6_5_1 { GWIN_RNO, GWIN }
+ble_pack RWIN_RNO_1_LC_6_5_2 { RWIN_RNO_1 }
+ble_pack RWINZ0_LC_6_5_3 { RWIN_RNO, RWIN }
+ble_pack RWIN_RNO_0_LC_6_5_4 { RWIN_RNO_0 }
+ble_pack RESET_ibuf_RNIH9HD1_LC_6_5_5 { RESET_ibuf_RNIH9HD1 }
+ble_pack state_RNI0FMQ1_6_LC_6_5_6 { state_RNI0FMQ1[6] }
+ble_pack state_RNI65UK1_4_LC_6_5_7 { state_RNI65UK1[4] }
+clb_pack LT_6_5 { GWIN_RNO_0_LC_6_5_0, GWINZ0_LC_6_5_1, RWIN_RNO_1_LC_6_5_2, RWINZ0_LC_6_5_3, RWIN_RNO_0_LC_6_5_4, RESET_ibuf_RNIH9HD1_LC_6_5_5, state_RNI0FMQ1_6_LC_6_5_6, state_RNI65UK1_4_LC_6_5_7 }
+set_location LT_6_5 6 5
+ble_pack state_6_LC_6_6_0 { state_RNO[6], state[6] }
+ble_pack state_7_LC_6_6_1 { state_RNO[7], state[7] }
+ble_pack state_fast_7_LC_6_6_2 { state_fast_RNO[7], state_fast[7] }
+ble_pack state_1_LC_6_6_3 { state_RNO[1], state[1] }
+ble_pack state_2_LC_6_6_4 { state_RNO[2], state[2] }
+ble_pack state_3_LC_6_6_5 { state_RNO[3], state[3] }
+clb_pack LT_6_6 { state_6_LC_6_6_0, state_7_LC_6_6_1, state_fast_7_LC_6_6_2, state_1_LC_6_6_3, state_2_LC_6_6_4, state_3_LC_6_6_5 }
+set_location LT_6_6 6 6
+ble_pack state_RNO_0_3_LC_6_7_1 { state_RNO_0[3] }
+clb_pack LT_6_7 { state_RNO_0_3_LC_6_7_1 }
+set_location LT_6_7 6 7
+set_location CLOCK_ibuf_gb_io_gb 0 9
+set_location RESET_ibuf_RNI8T16_0 0 8
+set_io RESET 41
+set_io CLOCK 1
+set_io TIMER_RUNNING 4
+set_io START 42
+set_io RWIN 51
+set_io RHIT 3
+set_io GWIN 40
+set_io GHIT 2

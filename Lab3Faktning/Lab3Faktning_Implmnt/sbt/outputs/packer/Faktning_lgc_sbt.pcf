@@ -1,0 +1,86 @@
+set_location IN_MUX_bfv_4_7_0_ 4 7 0 #ICE_CARRY_IN_MUX
+set_location CONSTANT_ONE_LUT4 4 8 0 #SB_LUT4
+set_location counter_cry_4_THRU_LUT4_0 4 7 5 #SB_LUT4
+set_location counter_cry_3_THRU_LUT4_0 4 7 4 #SB_LUT4
+set_location counter_cry_0_THRU_LUT4_0 4 7 1 #SB_LUT4
+set_location state_0_THRU_LUT4_0 4 5 0 #SB_LUT4
+set_location state_RNO_0[0] 5 5 4 #SB_LUT4
+set_location state[2] 6 6 4 #SB_DFFR
+set_location RHIT_ibuf_RNIDVJQ 2 6 0 #SB_LUT4
+set_location state_RNO[3] 6 6 5 #SB_LUT4
+set_location counter[0] 5 6 6 #SB_DFFER
+set_location counter_cry_c[6] 4 7 6 #SB_CARRY
+set_location counter_RNO[2] 4 6 2 #SB_LUT4
+set_location counter_RNO_0[3] 4 7 3 #SB_LUT4
+set_location state[7] 6 6 1 #SB_DFFS
+set_location counter_RNIRAS9[0] 4 6 5 #SB_LUT4
+set_location state[1] 6 6 3 #SB_DFFR
+set_location counter_RNI6R5D[0] 5 7 1 #SB_LUT4
+set_location counter[4] 5 6 4 #SB_DFFER
+set_location TIMER_RUNNING 5 7 5 #SB_DFF
+set_location state_RNO[6] 6 6 0 #SB_LUT4
+set_location counter_cry_c[2] 4 7 2 #SB_CARRY
+set_location counter_RNO[6] 5 6 7 #SB_LUT4
+set_location state_RNO_0[3] 6 7 1 #SB_LUT4
+set_location state_RNI0FMQ1[6] 6 5 6 #SB_LUT4
+set_location state[3] 6 6 5 #SB_DFFR
+set_location counter_cry_c[5] 4 7 5 #SB_CARRY
+set_location counter_RNO_0[6] 4 7 6 #SB_LUT4
+set_location counter_RNI7VHH2[3] 4 6 1 #SB_LUT4
+set_location state_RNO[4] 5 5 3 #SB_LUT4
+set_location counter[3] 4 6 3 #SB_DFFER
+set_location GWIN_RNO_0 6 5 0 #SB_LUT4
+set_location counter_RNO[1] 4 6 6 #SB_LUT4
+set_location RWIN_RNO_0 6 5 4 #SB_LUT4
+set_location state_fast_RNIS9LJ4[7] 5 5 7 #SB_LUT4
+set_location state_fast[7] 6 6 2 #SB_DFFS
+set_location state_RNO[2] 6 6 4 #SB_LUT4
+set_location state[4] 5 5 3 #SB_DFFR
+set_location counter[1] 4 6 6 #SB_DFFER
+set_location TIMER_RUNNING_RNO 5 7 5 #SB_LUT4
+set_location RESET_ibuf_RNI8T16 2 8 6 #SB_LUT4
+set_location counter_cry_c[1] 4 7 1 #SB_CARRY
+set_location counter_RNO[3] 4 6 3 #SB_LUT4
+set_location counter_RNO_0[2] 4 7 2 #SB_LUT4
+set_location RWIN_RNO 6 5 3 #SB_LUT4
+set_location state_fast_RNIVPHS[7] 4 6 7 #SB_LUT4
+set_location state_RNO_0[4] 5 5 2 #SB_LUT4
+set_location state_RNO[0] 5 6 2 #SB_LUT4
+set_location state[6] 6 6 0 #SB_DFFR
+set_location counter[7] 4 6 4 #SB_DFFER
+set_location state_RNO[7] 6 6 1 #SB_LUT4
+set_location counter_cry_c[3] 4 7 3 #SB_CARRY
+set_location counter_RNO[5] 5 6 5 #SB_LUT4
+set_location state[0] 4 5 0 #SB_DFFER
+set_location counter_RNO_0[7] 4 7 7 #SB_LUT4
+set_location counter[5] 5 6 5 #SB_DFFER
+set_location GND -1 -1 -1 #GND
+set_location state_RNO[5] 5 5 5 #SB_LUT4
+set_location state_RNIR3P71[5] 5 5 6 #SB_LUT4
+set_location counter_RNO[7] 4 6 4 #SB_LUT4
+set_location counter_RNIS6CQ[0] 5 6 1 #SB_LUT4
+set_location counter_RNIMB6D[7] 5 6 0 #SB_LUT4
+set_location counter[2] 4 6 2 #SB_DFFER
+set_location RESET_ibuf_RNIH9HD1 6 5 5 #SB_LUT4
+set_location GWIN_RNO 6 5 1 #SB_LUT4
+set_location state_RNI65UK1[4] 6 5 7 #SB_LUT4
+set_location counter_cry_c[4] 4 7 4 #SB_CARRY
+set_location counter_RNO[0] 5 6 6 #SB_LUT4
+set_location state_fast_RNIBO5N1[7] 4 6 0 #SB_LUT4
+set_location state[5] 5 5 5 #SB_DFFR
+set_location RWIN 6 5 3 #SB_DFF
+set_location state_fast_RNO[7] 6 6 2 #SB_LUT4
+set_location RWIN_RNO_1 6 5 2 #SB_LUT4
+set_location GWIN 6 5 1 #SB_DFF
+set_location state_RNO[1] 6 6 3 #SB_LUT4
+set_location counter[6] 5 6 7 #SB_DFFER
+set_location counter_cry_c[0] 4 7 0 #SB_CARRY
+set_location counter_RNO[4] 5 6 4 #SB_LUT4
+set_io RESET 41
+set_io CLOCK 1
+set_io TIMER_RUNNING 4
+set_io START 42
+set_io RWIN 51
+set_io RHIT 3
+set_io GWIN 40
+set_io GHIT 2

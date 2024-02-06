@@ -1,0 +1,10 @@
+[VIC]
+GWIN_RNOZ0Z_0_cascade_=ltout:in1
+N_15_cascade_=ltout:in0
+N_31_cascade_=ltout:in0
+RESET_ibuf_RNIH9HDZ0Z1_cascade_=ltout:in1
+g1_cascade_=ltout:in2
+state7_i_a2_4_cascade_=ltout:in0
+state_ns_i_0_123_1_cascade_=ltout:in2
+state_ns_i_0_1_3_cascade_=ltout:in2
+un1_state_5_i_1_cascade_=ltout:in3

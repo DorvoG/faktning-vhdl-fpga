@@ -1,0 +1,19 @@
+@N: CD630 :"C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\faktning.vhd":5:7:5:14|Synthesizing work.faktning.behavioral.
+@N: CD231 :"C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\faktning.vhd":17:20:17:21|Using onehot encoding for type state_type. For example, enumeration init is mapped to "10000000".
+@N: CD604 :"C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\faktning.vhd":88:16:88:29|OTHERS clause is not synthesized.
+Post processing for work.faktning.behavioral
+@A: CL282 :"C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\faktning.vhd":23:8:23:9|Feedback mux created for signal TIMER_RUNNING. It is possible a set/reset assignment for this is signal missing. To improve timing and area, specify a set/reset value.
+@A: CL282 :"C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\faktning.vhd":23:8:23:9|Feedback mux created for signal RWIN. It is possible a set/reset assignment for this is signal missing. To improve timing and area, specify a set/reset value.
+@A: CL282 :"C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\faktning.vhd":23:8:23:9|Feedback mux created for signal GWIN. It is possible a set/reset assignment for this is signal missing. To improve timing and area, specify a set/reset value.
+@N: CL201 :"C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\faktning.vhd":23:8:23:9|Trying to extract state machine for register state.
+Extracted state machine for register state
+State machine has 8 reachable states with original encodings of:
+   00000001
+   00000010
+   00000100
+   00001000
+   00010000
+   00100000
+   01000000
+   10000000
+@W: CL249 :"C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\faktning.vhd":23:8:23:9|Initial value is not supported on state machine state

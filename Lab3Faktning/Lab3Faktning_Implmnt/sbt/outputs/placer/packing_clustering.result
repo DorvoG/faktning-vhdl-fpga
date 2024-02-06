@@ -1,0 +1,58 @@
+ble_pack counter_cry_c[0]_LC_48 {counter_cry_c[0]}
+ble_pack counter_cry_0_THRU_LUT4_0_LC_45 {counter_cry_c[1], counter_cry_0_THRU_LUT4_0}
+ble_pack counter_RNO_0[2]_LC_15 {counter_cry_c[2], counter_RNO_0[2]}
+ble_pack counter_RNO_0[3]_LC_16 {counter_cry_c[3], counter_RNO_0[3]}
+ble_pack counter_cry_3_THRU_LUT4_0_LC_46 {counter_cry_c[4], counter_cry_3_THRU_LUT4_0}
+ble_pack counter_cry_4_THRU_LUT4_0_LC_47 {counter_cry_c[5], counter_cry_4_THRU_LUT4_0}
+ble_pack counter_RNO_0[6]_LC_17 {counter_cry_c[6], counter_RNO_0[6]}
+ble_pack counter_RNO_0[7]_LC_18 {counter_RNO_0[7]}
+clb_pack PLB_0 {counter_cry_c[0]_LC_48, counter_cry_0_THRU_LUT4_0_LC_45, counter_RNO_0[2]_LC_15, counter_RNO_0[3]_LC_16, counter_cry_3_THRU_LUT4_0_LC_46, counter_cry_4_THRU_LUT4_0_LC_47, counter_RNO_0[6]_LC_17, counter_RNO_0[7]_LC_18}
+ble_pack GWIN_RNO_0_LC_1 {GWIN_RNO_0}
+ble_pack GWIN_LC_0 {GWIN, GWIN_RNO}
+ble_pack state_RNI0FMQ1[6]_LC_26 {state_RNI0FMQ1[6]}
+ble_pack RWIN_LC_5 {RWIN, RWIN_RNO}
+ble_pack RESET_ibuf_RNIH9HD1_LC_3 {RESET_ibuf_RNIH9HD1}
+ble_pack RWIN_RNO_1_LC_7 {RWIN_RNO_1}
+ble_pack RWIN_RNO_0_LC_6 {RWIN_RNO_0}
+ble_pack state_RNI65UK1[4]_LC_27 {state_RNI65UK1[4]}
+clb_pack PLB_1 {GWIN_RNO_0_LC_1, GWIN_LC_0, state_RNI0FMQ1[6]_LC_26, RWIN_LC_5, RESET_ibuf_RNIH9HD1_LC_3, RWIN_RNO_1_LC_7, RWIN_RNO_0_LC_6, state_RNI65UK1[4]_LC_27}
+ble_pack counter_RNI6R5D[0]_LC_9 {counter_RNI6R5D[0]}
+ble_pack counter_RNIS6CQ[0]_LC_13 {counter_RNIS6CQ[0]}
+ble_pack state_RNO[0]_LC_29 {state_RNO[0]}
+ble_pack counter_RNIMB6D[7]_LC_11 {counter_RNIMB6D[7]}
+ble_pack counter[4]_LC_22 {counter[4], counter_RNO[4]}
+ble_pack counter[5]_LC_23 {counter[5], counter_RNO[5]}
+ble_pack counter[0]_LC_14 {counter[0], counter_RNO[0]}
+ble_pack counter[6]_LC_24 {counter[6], counter_RNO[6]}
+clb_pack PLB_2 {counter_RNI6R5D[0]_LC_9, counter_RNIS6CQ[0]_LC_13, state_RNO[0]_LC_29, counter_RNIMB6D[7]_LC_11, counter[4]_LC_22, counter[5]_LC_23, counter[0]_LC_14, counter[6]_LC_24}
+ble_pack counter_RNI7VHH2[3]_LC_10 {counter_RNI7VHH2[3]}
+ble_pack state_fast_RNIBO5N1[7]_LC_40 {state_fast_RNIBO5N1[7]}
+ble_pack counter[2]_LC_20 {counter[2], counter_RNO[2]}
+ble_pack counter[3]_LC_21 {counter[3], counter_RNO[3]}
+ble_pack counter[7]_LC_25 {counter[7], counter_RNO[7]}
+ble_pack counter_RNIRAS9[0]_LC_12 {counter_RNIRAS9[0]}
+ble_pack counter[1]_LC_19 {counter[1], counter_RNO[1]}
+ble_pack state_fast_RNIVPHS[7]_LC_42 {state_fast_RNIVPHS[7]}
+clb_pack PLB_3 {counter_RNI7VHH2[3]_LC_10, state_fast_RNIBO5N1[7]_LC_40, counter[2]_LC_20, counter[3]_LC_21, counter[7]_LC_25, counter_RNIRAS9[0]_LC_12, counter[1]_LC_19, state_fast_RNIVPHS[7]_LC_42}
+ble_pack state_RNO_0[3]_LC_31 {state_RNO_0[3]}
+ble_pack state[3]_LC_35 {state[3], state_RNO[3]}
+ble_pack state_RNO_0[0]_LC_30 {state_RNO_0[0]}
+ble_pack state[4]_LC_36 {state[4], state_RNO[4]}
+ble_pack state_RNO_0[4]_LC_32 {state_RNO_0[4]}
+ble_pack state[5]_LC_37 {state[5], state_RNO[5]}
+ble_pack state_RNIR3P71[5]_LC_28 {state_RNIR3P71[5]}
+ble_pack state_fast_RNIS9LJ4[7]_LC_41 {state_fast_RNIS9LJ4[7]}
+clb_pack PLB_4 {state_RNO_0[3]_LC_31, state[3]_LC_35, state_RNO_0[0]_LC_30, state[4]_LC_36, state_RNO_0[4]_LC_32, state[5]_LC_37, state_RNIR3P71[5]_LC_28, state_fast_RNIS9LJ4[7]_LC_41}
+ble_pack TIMER_RUNNING_LC_8 {TIMER_RUNNING, TIMER_RUNNING_RNO}
+ble_pack RESET_ibuf_RNI8T16_LC_2 {RESET_ibuf_RNI8T16}
+ble_pack RHIT_ibuf_RNIDVJQ_LC_4 {RHIT_ibuf_RNIDVJQ}
+ble_pack LC_49 {CONSTANT_ONE_LUT4}
+clb_pack PLB_5 {TIMER_RUNNING_LC_8, RESET_ibuf_RNI8T16_LC_2, RHIT_ibuf_RNIDVJQ_LC_4, LC_49}
+ble_pack state[6]_LC_38 {state[6], state_RNO[6]}
+ble_pack state[7]_LC_39 {state[7], state_RNO[7]}
+ble_pack state_fast[7]_LC_43 {state_fast[7], state_fast_RNO[7]}
+ble_pack state[1]_LC_33 {state[1], state_RNO[1]}
+ble_pack state[2]_LC_34 {state[2], state_RNO[2]}
+clb_pack PLB_6 {state[6]_LC_38, state[7]_LC_39, state_fast[7]_LC_43, state[1]_LC_33, state[2]_LC_34}
+ble_pack state[0]_LC_44 {state[0], state_0_THRU_LUT4_0}
+clb_pack PLB_7 {state[0]_LC_44}
