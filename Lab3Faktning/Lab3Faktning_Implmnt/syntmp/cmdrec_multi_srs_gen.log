@@ -1,0 +1,7 @@
+C:\lscc\iCEcube2.2020.12\synpbase\bin64\syn_nfilter.exe  -link  -multisrs  C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\Lab3Faktning\Lab3Faktning_Implmnt\synwork\Lab3Faktning_comp.srs  -osyn  C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\Lab3Faktning\Lab3Faktning_Implmnt\synwork\Lab3Faktning_mult.srs  -log  C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\Lab3Faktning\Lab3Faktning_Implmnt\synlog\Lab3Faktning_multi_srs_gen.srr 
+rc:0 success:1 runtime:1
+file:C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\Lab3Faktning\Lab3Faktning_Implmnt\synwork\Lab3Faktning_comp.srs|io:i|time:1707219344|size:4146|exec:0
+file:C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\Lab3Faktning\Lab3Faktning_Implmnt\synwork\Lab3Faktning_mult.srs|io:o|time:1707219346|size:3938|exec:0
+file:C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\Lab3Faktning\Lab3Faktning_Implmnt\synlog\Lab3Faktning_multi_srs_gen.srr|io:o|time:1707219346|size:733|exec:0
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin\syn_nfilter.exe|io:i|time:1707218116|size:3128320|exec:1
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\syn_nfilter.exe|io:i|time:1707218120|size:3947520|exec:1

@@ -1,0 +1,27 @@
+---------------------------------------
+Resource Usage Report for Faktning 
+
+Mapping to part: ice40hx1kvq100
+Cell usage:
+SB_CARRY        7 uses
+SB_DFF          3 uses
+SB_DFFER        9 uses
+SB_DFFR         6 uses
+SB_DFFS         2 uses
+SB_GB           1 use
+SB_LUT4         44 uses
+
+I/O ports: 8
+I/O primitives: 8
+SB_GB_IO       1 use
+SB_IO          7 uses
+
+I/O Register bits:                  0
+Register bits not including I/Os:   20 (1%)
+
+@S |Mapping Summary:
+Total  LUTs: 44 (3%)
+
+Distribution of All Consumed LUTs = LUT4 
+Distribution of All Consumed Luts 44 = 44 
+

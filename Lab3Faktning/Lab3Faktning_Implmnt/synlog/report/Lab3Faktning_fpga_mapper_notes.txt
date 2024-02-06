@@ -1,0 +1,12 @@
+@N: MF248 |Running in 64-bit mode.
+@N: MF666 |Clock conversion enabled. (Command "set_option -fix_gated_and_generated_clocks 1" in the project file.)
+@N: MT206 |Auto Constrain mode is enabled
+@N: MO231 :"c:\lscc\icecube2.2020.12\sbt_backend\projects\faktningvhdl\faktning.vhd":23:8:23:9|Found counter in view:work.Faktning(behavioral) instance counter[7:0] 
+@N: FX271 :"c:\lscc\icecube2.2020.12\sbt_backend\projects\faktningvhdl\faktning.vhd":23:8:23:9|Replicating instance state[7] (in view: work.Faktning(behavioral)) with 8 loads 1 time to improve timing.
+@N: FX1016 :"c:\lscc\icecube2.2020.12\sbt_backend\projects\faktningvhdl\faktning.vhd":6:12:6:16|SB_GB_IO inserted on the port CLOCK.
+@N: FX1017 :|SB_GB inserted on the net RESET_c_i.
+@N: BW103 |The default time unit for the Synopsys Constraint File (SDC or FDC) is 1ns.
+@N: BW107 |Synopsys Constraint File capacitance units using default value of 1pF 
+@N: FX1056 |Writing EDF file: C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\Lab3Faktning\Lab3Faktning_Implmnt\Lab3Faktning.edf
+@N: MT320 |This timing report is an estimate of place and route data. For final timing results, use the FPGA vendor place and route report.
+@N: MT322 |Clock constraints include only register-to-register paths associated with each individual clock.

@@ -1,0 +1,12 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N: CD720 :"C:\lscc\iCEcube2.2020.12\synpbase\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ps
+@N:"C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\faktning.vhd":5:7:5:14|Top entity is set to Faktning.
+@N: CD630 :"C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\faktning.vhd":5:7:5:14|Synthesizing work.faktning.behavioral.
+@N: CD231 :"C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\faktning.vhd":17:20:17:21|Using onehot encoding for type state_type. For example, enumeration init is mapped to "10000000".
+@N: CD604 :"C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\faktning.vhd":88:16:88:29|OTHERS clause is not synthesized.
+@N: CL201 :"C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\faktning.vhd":23:8:23:9|Trying to extract state machine for register state.
+@N|Running in 64-bit mode
+@N: NF107 :"C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\faktning.vhd":5:7:5:14|Selected library: work cell: Faktning view behavioral as top level
+@N: NF107 :"C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\faktningvhdl\faktning.vhd":5:7:5:14|Selected library: work cell: Faktning view behavioral as top level
+

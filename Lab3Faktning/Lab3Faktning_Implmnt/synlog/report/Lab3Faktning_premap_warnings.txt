@@ -1,0 +1,1 @@
+@W: MT529 :"c:\lscc\icecube2.2020.12\sbt_backend\projects\faktningvhdl\faktning.vhd":23:8:23:9|Found inferred clock Faktning|CLOCK which controls 19 sequential elements including state[0:7]. This clock has no specified timing constraint which may prevent conversion of gated or generated clocks and may adversely impact design performance. 
